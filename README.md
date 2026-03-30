@@ -2,7 +2,7 @@
 
 RR Osqon – a small display sans-serif font created as an experiment in alternative alphabet design and text readability.
 
-![Example](images/example-white.svg#gh-dark-mode-only)![Example](images/example-black.svg#gh-lightmod-mode-only)
+![Example](images/example-white.svg#gh-dark-mode-only)![Example](images/example-black.svg#gh-light-mod-mode-only)
 
 ## About
 
