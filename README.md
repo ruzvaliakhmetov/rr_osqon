@@ -46,7 +46,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 
 ## Download
 
-[![Download TTF](https://img.shields.io/badge/Download-TTF-blue)](https://github.com/ruzvaliakhmetov/rr_osqon/raw/main/fonts/ttf/RROsqon-Regular.ttf)
-[![Download OTF](https://img.shields.io/badge/Download-OTF-green)](https://github.com/ruzvaliakhmetov/rr_osqon/raw/main/fonts/otf/RROsqon-Regular.otf)
+[![Download TTF](https://img.shields.io/badge/Download-TTF-blue)](https://github.com/ruzvaliakhmetov/rr_osqon/raw/main/fonts/ttf/RR-Osqon-Regular.ttf)
+[![Download OTF](https://img.shields.io/badge/Download-OTF-green)](https://github.com/ruzvaliakhmetov/rr_osqon/raw/main/fonts/otf/RR-Osqon-Regular.otf)
 
 ---
